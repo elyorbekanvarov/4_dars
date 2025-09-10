@@ -494,6 +494,10 @@ nav ul li a:hover {
   align-items: center;
   gap: 35px;
 }
+.card {
+  background-color: white;
+  border-radius: 20px;
+}
 .card-title {
   padding: 23.56px 52px 34.35px 32px;
 }
